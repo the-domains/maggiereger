@@ -1,0 +1,28 @@
+name: maggiereger
+favicon: null
+layout_spectrum: 0.8566951816901565
+typography_spectrum: 0.359821550315246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7453077244572341
+  lightness: 0.8632684738840908
+  saturation: 0.8908584015443921
+  rhythmicContrast: 0.33298405702225864
+purpose: []
